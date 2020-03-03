@@ -8,20 +8,26 @@ Application Responses
  - First full project made in jQuery with firebase integration for leaderboard.
  - Works great on mobile
 
+[GitHub Repository](https://github.com/tseki88/steveSekiProjectThree "GitHub Repository")
+
+[Live Link](http://tseki88.github.io/steveSekiProjectThree "Live Link")
+
 ![Project Screenshot](./assets/screen_ludr.png)
 
-[Repository](https://github.com/tseki88/steveSekiProjectThree "GitHub Repository")
-[Live](http://tseki88.github.io/steveSekiProjectThree "Live Link")
+
 
 ### 2. Group React Project
  - Mob programming project with 2 other developers.
  - Overall contribution was distributed amongst each developer.
  - Contributed to setting up majority of sound and music in game.
 
+[GitHub Repository](https://github.com/pokemonBlackJack/pokemonBlackJack "GitHub Repository")
+
+[Live Link](https://pokemonblackjack.github.io/pokemonBlackJack/ "Live Link")
+
 ![Project Screenshot](./assets/screen_poke.png)
 
-[Repository](https://github.com/pokemonBlackJack/pokemonBlackJack "GitHub Repository")
-[Live](https://pokemonblackjack.github.io/pokemonBlackJack/ "Live Link")
+
 
 ## Inspiration
 
